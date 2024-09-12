@@ -24,7 +24,7 @@ Welcome to the AI Debate Arena, where the world's most advanced language models 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/ai-debate-arena.git
+   git clone https://github.com/rd-serendipity/ai-debate-arena.git
    cd ai-debate-arena
    ```
 
